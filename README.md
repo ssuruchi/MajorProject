@@ -1,5 +1,5 @@
 # MajorProject
-Finding optimal Cluster Head in Software Defined Wireless Sensor Networks using Nature Inspired Algorithm (WOA).
+Finding optimal Cluster Head in Software Defined Wireless Sensor Network using Nature Inspired Algorithm (WOA).
 
 ![image](https://github.com/user-attachments/assets/e584b9f7-63eb-4244-ba32-c02c99b5d78a)
 
